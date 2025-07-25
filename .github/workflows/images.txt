@@ -1,1 +1,4 @@
+opensecurity/mobile-security-framework-mobsf
+justsong/one-api
+ollama/ollama
 airflow:2.1.2
